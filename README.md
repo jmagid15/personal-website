@@ -1,2 +1,2 @@
 # personal-website
-jakemagid.com
+Hosted here: [jakemagid.com](jakemagid.com)
